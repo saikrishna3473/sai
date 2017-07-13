@@ -1,0 +1,40 @@
+03/28/2017 21:43:47     Info   Activity ID: 1e2d2bdc-3ccd-4da7-9c9b-e685be85e116
+03/28/2017 21:43:47     Info   App Version: 1.1702.653.0
+03/28/2017 21:43:47     Info   Insider's Hub starting; Online state: 'Unknown', DebuggerAttached: 'False', Debug: 'False'
+03/28/2017 21:43:47     Info   SdkInitialize.Start[1991]
+03/28/2017 21:43:47     Info   SdkInitialize.Stop[2054] Elapsed MS [63]
+03/28/2017 21:43:47     Info   ApplicationModel: InitializeHolographicSetup for Oasis Api
+03/28/2017 21:43:47     Info   ApplicationModel: Api results: IsInHolographicShell = False, IsHMDConnected = False
+03/28/2017 21:43:47     Info   PilotsHubProtocolActivated, kind: Protocol, prevexecstate: NotRunning, uri: windows-feedback:///?ContextID=610&SearchString=Windows Network Diagnostics+"connect"+"wireless+network"+"preferred"
+03/28/2017 21:43:47     Info   Feedback Hub launching; ActivationType: 'URIContextId', Kind: 'Protocol', AppRunning: 'False'
+03/28/2017 21:43:47     Info   UIFActivationHandler.Initialize activation handler valid: True
+03/28/2017 21:43:47     Info   GetInstalledLegacyApps.Start[3132]
+03/28/2017 21:43:47     Info   GetInstalledModernApps.Start[3208]
+03/28/2017 21:43:47     Info   GetPublicModernApps.Start[3208]
+03/28/2017 21:43:47     Info   HandleFirstActivation.Start[11454]
+03/28/2017 21:43:47     Info   PilotsHubStartLaunch
+03/28/2017 21:43:47     Info   GetInstalledLegacyApps.Stop[11705] Elapsed MS [8573]
+03/28/2017 21:43:48     Info   Suspending application
+03/28/2017 21:43:48     Info   RunChecks.Start[12528]
+03/28/2017 21:43:48     Info   Beginning start up checks. Previously ran [False]
+03/28/2017 21:43:48     Info   RefreshNetworkConnection.Start[12528]
+03/28/2017 21:43:48     Info   Refreshing network status
+03/28/2017 21:43:48     Info   No internet connectivity profile was detected
+03/28/2017 21:43:48     Info   Current network status - Disconnected
+03/28/2017 21:43:48     Info   RefreshNetworkConnection.Stop[12534] Elapsed MS [6]
+03/28/2017 21:43:48     Info   RefreshSettings.Start[12534]
+03/28/2017 21:43:48     Info   User settings valid [False]
+03/28/2017 21:43:48     Info   RefreshSettings.Stop[12766] Elapsed MS [232]
+03/28/2017 21:43:48     Info   Finished start up checks. HasNetwork[False] HasUserSettings[False] PrivacyStatus[L3[True] L4[True] Insider[False]] WelcomeDialog[False] ValidBuild[False]
+03/28/2017 21:43:48     Info   RunChecks.Stop[12917] Elapsed MS [389]
+03/28/2017 21:43:48     Info   IsKnownActivationType True
+03/28/2017 21:43:48     Info   GetStartupState [NoNetwork]
+03/28/2017 21:43:48     Info   IsRestrictedStartupState [True] State [NoNetwork]
+03/28/2017 21:43:48     Info   GetStartupState [NoNetwork]
+03/28/2017 21:43:48     Info   IsRestrictedStartupState [True] State [NoNetwork]
+03/28/2017 21:43:48     Info   Creating shell host
+03/28/2017 21:43:48     Info   .ctor.Shell.Start[13097]
+03/28/2017 21:43:49     Info   .ctor.Shell.Stop[14398] Elapsed MS [1300]
+03/28/2017 21:43:49     Info   NavigateToPage.None.Restricted.Start[14560]
+03/28/2017 21:43:49     Info   GetStartupState [NoNetwork]
+03/28/2017 21:43:49     Info   IsRestrictedStartupState [True] State [NoNetwork]
